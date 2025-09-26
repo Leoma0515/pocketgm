@@ -1,0 +1,9 @@
+{
+  "name": "pocketgm",
+  "private": true,
+  "packageManager": "pnpm@10.17.1",
+  "scripts": {
+    "dev:server": "pnpm --filter ./apps/server dev",
+    "build": "pnpm -r build"
+  }
+}
