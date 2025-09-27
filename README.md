@@ -1,3 +1,5 @@
+![CI](https://github.com/Leoma0515/pocketgm/actions/workflows/ci.yml/badge.svg)
+
 PocketGM — Dev Quickstart
 Local dev uses pnpm, a Fastify server in apps/server, and Postgres 16 + pgvector via Docker (Colima). This repo is a pnpm workspace (monorepo-style).
 0) Prereqs
